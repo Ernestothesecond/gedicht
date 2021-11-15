@@ -5,7 +5,7 @@ Farbpalette
 Rot
 Grün
 Blau
-gelb
++gelb
 magenta
 Sind alles tolle Farben.
 
